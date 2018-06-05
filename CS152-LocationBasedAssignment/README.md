@@ -8,7 +8,9 @@ The GUI was built with Python Tkinter. User inputs are collected, converted and 
 <img src="https://github.com/roujiawen/CS_Assignments/blob/master/CS152-LocationBasedAssignment/img/screenshot.png">
 
 
-## To run the program:
+
+
+To run the program:
 ```
 $ python -m app
 ```
